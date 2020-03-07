@@ -3,7 +3,7 @@
   <name>Mobile KIT</name>
   <description>Mobile KIT Base</description>
   <author email="contcto@daft.cl" href="http://www.daft.cl">Daft Mobile APPs</author>
-  <preference name="phonegap-version" value="cli-6.1.2" />
+  <preference name="phonegap-version" value="cli-6.0.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
   <preference name="target-device" value="universal" />
