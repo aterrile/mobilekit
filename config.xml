@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.daft.mobilekit" version="1.0" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.daft.lab" version="1.1" xmlns="http://www.w3.org/ns/widgets">
   <name>LAB</name>
   <description>LAB External save</description>
   <author email="contacto@daft.cl" href="http://www.daft.cl">Daft Mobile APPs</author>
