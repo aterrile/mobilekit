@@ -1,2 +1,0 @@
-# mobilekit
-Mobile Kit Base
